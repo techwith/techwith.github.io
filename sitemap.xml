@@ -1,30 +1,22 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
     <loc>https://techwith.github.io/</loc>
   </url>
-
   <url>
     <loc>https://techwith.github.io/about.html</loc>
   </url>
-
   <url>
     <loc>https://techwith.github.io/contact.html</loc>
   </url>
-
   <url>
     <loc>https://techwith.github.io/ai.html</loc>
   </url>
-
   <url>
     <loc>https://techwith.github.io/android.html</loc>
   </url>
-
   <url>
     <loc>https://techwith.github.io/coding.html</loc>
   </url>
-
 </urlset>
 
